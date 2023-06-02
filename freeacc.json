@@ -1,0 +1,7 @@
+{
+    "url": "https://raw.githubusercontent.com/kowalskils/sectest/master/freeacc.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/kowalskils/sectest/master/freeacc.yaml",
+        "name": "HTML Injection test"
+    }]
+}
